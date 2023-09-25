@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f071f9e1-1246-4dd4-8407-2f7ad22f2446" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/135. candy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/30.Substring with Concatenation of All Words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f071f9e1-1246-4dd4-8407-2f7ad22f2446" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
