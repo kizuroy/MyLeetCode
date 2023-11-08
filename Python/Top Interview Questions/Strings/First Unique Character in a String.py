@@ -1,7 +1,7 @@
 # Given a string s, find the first non-repeating character in it and return its index. 
 # If it does not exist, return -1.
 
-def firstUniqChar(self, s: str) -> int:
+def firstUniqChar(s: str) -> int:
     # Create a dictionary
     freq = {}
 
@@ -19,7 +19,7 @@ def firstUniqChar(self, s: str) -> int:
 # We can solve it by using collections
 import collections
 
-def firstUniqCharCollections(self, s: str) -> int:
+def firstUniqCharCollections(s: str) -> int:
     f = collections.Counter(s)
     for i, char in enumerate(s):
         if f[char] == 1:
